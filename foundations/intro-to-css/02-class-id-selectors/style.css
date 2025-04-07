@@ -1,0 +1,19 @@
+.text {
+    background-color: #f1a7b1;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#header {
+    color: #5c5ce0;
+    font-size: 36px;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#subheader {
+    background-color: #8bf38b;
+    font-size: 24px;
+    font-weight: bold;
+}
